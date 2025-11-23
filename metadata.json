@@ -1,0 +1,5 @@
+{
+  "name": "Texify - Doc to LaTeX Converter",
+  "description": "A powerful tool to convert PDF documents into clean LaTeX code, and convert LaTeX code back into readable plain text summaries using Gemini 2.5 Flash.",
+  "requestFramePermissions": []
+}
